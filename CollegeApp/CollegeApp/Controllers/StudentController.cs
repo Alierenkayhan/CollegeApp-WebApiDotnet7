@@ -100,12 +100,12 @@ namespace CollegeApp.Controllers
 
 
 
-        [HttpDelete("{id:int:min(1):max(100)}", Name = "GetStudentDelete")]
+        [HttpDelete("Delete/{id}", Name = "DeleteStudentById")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<bool> GetStudentDelete(int id)
+        public ActionResult<bool> DeleteStudent(int id)
         {
 
             if (id <= 0)
