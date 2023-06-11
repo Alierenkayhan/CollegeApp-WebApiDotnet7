@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "8Eb8xlTJGzILteklW6bTRT08UGPLy+u6TfQXwXQFqN9gwdlsw9wmfuFVRYeLDZ4+l6697X/pzn9jUXfWd2Y6nA==",
+  "dgSpecHash": "K2Psb8NeVlU4uBKm22oBl0VYR/itKWPfLCfgG0BkdZlkplUwQPg8Byeas5c/O9tQICXuyBZCdKWZ+5j1TtbyXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ali_e\\Downloads\\github\\CollegeApp-WebApiDotnet7\\CollegeApp\\CollegeApp\\CollegeApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.0-preview.4.23260.4\\microsoft.aspnetcore.jsonpatch.8.0.0-preview.4.23260.4.nupkg.sha512",
+    "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.5.nupkg.sha512",
     "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ali_e\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ali_e\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512",
     "C:\\Users\\ali_e\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\ali_e\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\ali_e\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
